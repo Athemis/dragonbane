@@ -223,7 +223,7 @@
       "failure": "gescheitert.",
       "attributeRoll": "Attributswurf für <b>{attribute}</b> <b>{result}</b>",
       "skillRoll": "Fertigkeitswurf für <b>{skill}</b> <b>{result}</b>",
-      "spellRoll": "Fertigkeitswurf für <b>{spell}</b> mit <b>Power Level {powerLevel}</b> <b>{result}</b>",
+      "spellRoll": "Fertigkeitswurf für <b>{spell}</b> mit <b>Machtstufe {powerLevel}</b> <b>{result}</b>",
       "spellRollTarget": "<b>{spell}</b> at Power Level <b>{powerLevel}</b> targeting <b>{target}</b> <b>{result}</b>",
       "weaponRoll": "<b>{action}</b> mit <b>{skill}</b> <b>{result}</b>",
       "weaponRollTarget": "<b>{action}</b> mit <b>{skill}</b> auf <b>{target}</b> <b>{result}</b>",
@@ -338,7 +338,7 @@
       "brokenTooltip": "Zeigt an, ob die Waffe beschädigt ist",
       "mainHandTooltip": "Die Waffe wird in der Haupthand geführt.",
       "offHandTooltip": "Die Waffe wird in der Nebenhand geführt.",
-      "belowRequiredStr": "Below STR"
+      "belowRequiredStr": "Unter STÄ"
     },
     "unit": {
       "meterPlural": "Meter"
@@ -346,12 +346,12 @@
     "weaponFeatureTypes": {
       "bludgeoning": "Wucht",
       "bludgeoningTooltip": "Wucht",
-      "enchanted1": "Enchanted (1)",
-      "enchanted1Tooltip": "Same effect as Enchanted Weapon at Power Level 1",
-      "enchanted2": "Enchanted (2)",
-      "enchanted2Tooltip": "Same effect as Enchanted Weapon at Power Level 2",
-      "enchanted3": "Enchanted (3)",
-      "enchanted3Tooltip": "Same effect as Enchanted Weapon at Power Level 3",
+      "enchanted1": "Verzaubert (1)",
+      "enchanted1Tooltip": "Gleicher Effekt wie Verzauberte Waffe auf Machtstufe 1",
+      "enchanted2": "Verzaubert (2)",
+      "enchanted2Tooltip": "Gleicher Effekt wie Verzauberte Waffe auf Machtstufe 2",
+      "enchanted3": "Verzaubert (3)",
+      "enchanted3Tooltip": "Gleicher Effekt wie Verzauberte Waffe auf Machtstufe 3",
       "long": "Lang",
       "longTooltip": "Lang",
       "mounted": "Beritten",
